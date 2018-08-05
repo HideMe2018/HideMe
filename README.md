@@ -1,5 +1,5 @@
 # HideMe
-Thanks for using our HideMe Demo.
+Thanks for using our HideMe Demo. You can download the zip from Github and run the HideMe 2.0.exe.
 Before you run the “HideMe.exe” as shown in Fig 1.
  
 Fig 1
